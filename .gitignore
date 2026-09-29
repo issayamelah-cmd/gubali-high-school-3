@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+data/applications.json
+data/students.json
+uploads/*

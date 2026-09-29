@@ -1,0 +1,8 @@
+{
+  "name": "gubali-high-school-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gubali High School public website and online admissions portal",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node server.js"}
+}
